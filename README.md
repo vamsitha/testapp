@@ -1,2 +1,2 @@
-My Django Bike App Project
+My Django BikeApp Project
 
